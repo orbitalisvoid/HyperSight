@@ -153,13 +153,3 @@ To add new features:
 2. Implement the `processFrame` function in the plugin.
 3. Build the plugin as a shared library.
 4. Add the feature to the client-side configuration (e.g., `features` map).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- OpenCV for powerful computer vision capabilities.
-- Node.js and Express for easy server-side API management.
-- cpr for simplified HTTP requests in C++.
